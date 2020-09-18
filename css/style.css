@@ -22,12 +22,12 @@ p{
 img{
 	display: block;
 	margin: auto;
-	width: 526px;
+	width: 525px;
 }
 
 div{
 	min-height: 150px;
-	padding: 25 px;
+	padding: 25px;
 }
 
 #blue{
@@ -35,21 +35,26 @@ div{
 	text-align: left;
 }
 
+
+#red{
+	background: #FF0000;
+	text-align: right;
+}
+
+
 #yellow{
 	background:#FFFF00;
 	text-align: right;
 }
-#yellowp{
+#yellow p{
 	color:#000000;
 }
 #yellow h2{
 	color:#000000;
 	text-shadow: 4px 4px 2px #c7e2c7;
 }
-#red{
-	background: #FF0000;
-	text-align: right;
-}
+
+
 #green{
 	background: #008000;
 	text-align: left;
